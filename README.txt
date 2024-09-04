@@ -1,0 +1,3 @@
+Ressources : 
+Stephen Altschul, Warren Gish, Webb Miller; Eugene Myers; David J. Lipman (1990). "Basic local alignment search tool". Journal of Molecular Biology. 215 (3): 403– 410. doi:10.1016/S0022-2836(05)80360-2. 
+Tatiana A. Tatusova, Thomas L. Madden, BLAST 2 Sequences, a new tool for comparing protein and nucleotide sequences, FEMS Microbiology Letters, Volume 174, Issue 2, May 1999, Pages 247–250, https://doi.org/10.1111/j.1574-6968.1999.tb13575.x
